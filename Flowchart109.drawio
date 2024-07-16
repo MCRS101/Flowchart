@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" modified="2024-07-16T03:10:11.500Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="wjPLC6fqSaKLqRhKv-nf" version="24.6.5" type="github">
+  <diagram name="Page-1" id="vbNGAW0NrKl06rl9YTj8">
+    <mxGraphModel dx="2377" dy="1322" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mt097GOiujXytaLBmoHw-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="365" y="170" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mt097GOiujXytaLBmoHw-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mt097GOiujXytaLBmoHw-2" target="mt097GOiujXytaLBmoHw-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mt097GOiujXytaLBmoHw-2" value="Wide, Length" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="347" y="280" width="156" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="mt097GOiujXytaLBmoHw-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0.133;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mt097GOiujXytaLBmoHw-1" target="mt097GOiujXytaLBmoHw-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mt097GOiujXytaLBmoHw-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mt097GOiujXytaLBmoHw-6" target="mt097GOiujXytaLBmoHw-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mt097GOiujXytaLBmoHw-6" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Area = Wide * Length&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;arcSize=11;" vertex="1" parent="1">
+          <mxGeometry x="259.06" y="440" width="331.88" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="mt097GOiujXytaLBmoHw-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mt097GOiujXytaLBmoHw-8" target="mt097GOiujXytaLBmoHw-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mt097GOiujXytaLBmoHw-8" value="&lt;b style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;*** Input Data ***&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Wide = ...&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Lenath - ...&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;*** Out Data ***&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Area = ...&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="250" y="580" width="350" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="mt097GOiujXytaLBmoHw-11" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Stop&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="830" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mt097GOiujXytaLBmoHw-15" value="ฝังงานแสดงขั้นตอนการคำนวนพื้นที่สี่เหลี่ยมผืนผ้า" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="193" y="20" width="465" height="112.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
